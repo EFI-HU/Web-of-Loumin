@@ -7,9 +7,7 @@ import {
   BuildingOfficeIcon, 
   BanknotesIcon, 
   TruckIcon,
-  UserIcon,
   BriefcaseIcon,
-  DocumentTextIcon,
   EnvelopeIcon,
   PhoneIcon,
   MapPinIcon,
@@ -21,7 +19,6 @@ import {
   StarIcon
 } from '@heroicons/react/24/outline';
 import { 
-  SITE_CONFIG, 
   INVESTMENT_AREAS, 
   WORK_EXPERIENCE, 
   EDUCATION, 
@@ -466,7 +463,7 @@ export default function HomePage() {
           >
             <h3 className="text-2xl font-bold mb-4">投资理念</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
-              "深度研究，价值创造，前瞻布局" - 专注于具有长期价值的科技创新项目，
+              &ldquo;深度研究，价值创造，前瞻布局&rdquo; - 专注于具有长期价值的科技创新项目，
               通过深入的行业研究和专业的投资判断，为创业者提供资本和资源支持，
               共同推动科技创新和产业升级。
             </p>
