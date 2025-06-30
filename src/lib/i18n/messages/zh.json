@@ -1,0 +1,74 @@
+{
+  "common": {
+    "name": "娄敏",
+    "title": "金融投资专家",
+    "subtitle": "科技创新投资人",
+    "description": "10年科技创新股权投资经验，专注于产业数字化、企业服务、金融科技等领域的早期创新项目投资",
+    "contact": "联系我",
+    "phone": "18910992789",
+    "email": "loumin_pku@163.com",
+    "address": "北京市朝阳区大望京商务中心C座"
+  },
+  "navigation": {
+    "home": "首页",
+    "about": "关于",
+    "portfolio": "投资组合", 
+    "insights": "行业洞察",
+    "contact": "联系"
+  },
+  "hero": {
+    "greeting": "你好，我是",
+    "name": "娄敏",
+    "title": "金融投资专家",
+    "subtitle": "科技创新投资人",
+          "description": "10年科技创新股权投资经验，专注于产业数字化、企业服务、金融科技等领域的早期创新项目投资。",
+    "cta": "了解更多",
+    "stats": {
+      "experience": "投资经验",
+      "projects": "项目研究", 
+      "transactions": "交易金额",
+      "cases": "成功案例"
+    }
+  },
+  "about": {
+    "title": "关于我",
+          "description": "拥有10年科技创新股权投资经验和2年创业管理经验，专注于早期创新项目投资",
+    "experience": "工作经历",
+    "education": "教育背景",
+    "awards": "奖项荣誉",
+    "current": "在职"
+  },
+  "portfolio": {
+    "title": "投资组合",
+    "description": "精选投资案例，涵盖金融科技、企业服务、汽车科技等多个领域",
+    "philosophy": "投资理念",
+    "philosophyText": "深度研究，价值创造，前瞻布局 - 专注于具有长期价值的科技创新项目，通过深入的行业研究和专业的投资判断，为创业者提供资本和资源支持，共同推动科技创新和产业升级。"
+  },
+  "insights": {
+    "title": "行业洞察", 
+    "description": "分享投资思考和行业观察，探讨科技创新的发展趋势",
+    "readMore": "阅读更多"
+  },
+  "contact": {
+    "title": "联系我",
+    "description": "如果您有优质的创新项目或投资合作意向，欢迎与我联系",
+    "info": "联系方式",
+    "preferences": "投资偏好",
+    "cooperation": "项目合作",
+    "form": {
+      "name": "姓名",
+      "company": "公司",
+      "email": "邮箱",
+      "project": "项目描述",
+      "namePlaceholder": "请输入您的姓名",
+      "companyPlaceholder": "请输入公司名称", 
+      "emailPlaceholder": "请输入邮箱地址",
+      "projectPlaceholder": "请简要描述您的项目...",
+      "submit": "发送消息"
+    }
+  },
+  "footer": {
+    "description": "专注于科技创新投资，致力于发现和培育具有长期价值的优秀企业",
+    "copyright": "© 2024 娄敏. 保留所有权利."
+  }
+} 

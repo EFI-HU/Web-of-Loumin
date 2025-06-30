@@ -1,0 +1,74 @@
+{
+  "common": {
+    "name": "Lou Min",
+    "title": "Financial Investment Expert",
+    "subtitle": "Technology Innovation Investor",
+    "description": "8 years of experience in technology innovation equity investment, focusing on early-stage innovative projects in industrial digitalization, enterprise services, fintech and other fields",
+    "contact": "Contact Me",
+    "phone": "18910992789",
+    "email": "loumin_pku@163.com",
+    "address": "Room 4701, 47th Floor, Tower A, Wangjing SOHO, Chaoyang District, Beijing"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "insights": "Insights",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Lou Min",
+    "title": "Financial Investment Expert",
+    "subtitle": "Technology Innovation Investor",
+    "description": "8 years of experience in technology innovation equity investment, focusing on early-stage innovative projects in industrial digitalization, enterprise services, fintech and other fields.",
+    "cta": "Learn More",
+    "stats": {
+      "experience": "Investment Experience",
+      "projects": "Projects Researched",
+      "transactions": "Transaction Volume",
+      "cases": "Successful Cases"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With 8 years of technology innovation equity investment experience and 2 years of entrepreneurship and management experience, focusing on early-stage innovative project investment",
+    "experience": "Work Experience",
+    "education": "Education",
+    "awards": "Awards & Honors",
+    "current": "Current"
+  },
+  "portfolio": {
+    "title": "Investment Portfolio",
+    "description": "Selected investment cases covering fintech, enterprise services, automotive technology and other fields",
+    "philosophy": "Investment Philosophy",
+    "philosophyText": "Deep Research, Value Creation, Forward-looking Layout - Focus on technology innovation projects with long-term value, provide capital and resource support for entrepreneurs through in-depth industry research and professional investment judgment, jointly promote technology innovation and industrial upgrading."
+  },
+  "insights": {
+    "title": "Industry Insights",
+    "description": "Share investment thinking and industry observations, explore the development trends of technology innovation",
+    "readMore": "Read More"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "If you have high-quality innovative projects or investment cooperation intentions, welcome to contact me",
+    "info": "Contact Information",
+    "preferences": "Investment Preferences",
+    "cooperation": "Project Cooperation",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "project": "Project Description",
+      "namePlaceholder": "Please enter your name",
+      "companyPlaceholder": "Please enter company name",
+      "emailPlaceholder": "Please enter email address",
+      "projectPlaceholder": "Please briefly describe your project...",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Focus on technology innovation investment, committed to discovering and nurturing excellent enterprises with long-term value",
+    "copyright": "© 2024 Lou Min. All rights reserved."
+  }
+} 

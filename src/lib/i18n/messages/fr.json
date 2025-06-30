@@ -1,0 +1,74 @@
+{
+  "common": {
+    "name": "Lou Min",
+    "title": "Expert en Investissement Financier",
+    "subtitle": "Investisseur en Innovation Technologique",
+    "description": "8 ans d'expérience en investissement en capital-risque dans l'innovation technologique, spécialisé dans les projets innovants en phase précoce dans la digitalisation industrielle, les services aux entreprises, la fintech et d'autres domaines",
+    "contact": "Me Contacter",
+    "phone": "18910992789",
+    "email": "loumin_pku@163.com",
+    "address": "Salle 4701, 47e étage, Tour A, Wangjing SOHO, District de Chaoyang, Pékin"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "portfolio": "Portefeuille",
+    "insights": "Perspectives",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Lou Min",
+    "title": "Expert en Investissement Financier",
+    "subtitle": "Investisseur en Innovation Technologique",
+    "description": "8 ans d'expérience en investissement en capital-risque dans l'innovation technologique, spécialisé dans les projets innovants en phase précoce dans la digitalisation industrielle, les services aux entreprises, la fintech et d'autres domaines.",
+    "cta": "En Savoir Plus",
+    "stats": {
+      "experience": "Expérience d'Investissement",
+      "projects": "Projets Étudiés",
+      "transactions": "Volume de Transactions",
+      "cases": "Cas de Succès"
+    }
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "description": "Avec 8 ans d'expérience en investissement en capital-risque dans l'innovation technologique et 2 ans d'expérience en entrepreneuriat et gestion, spécialisé dans l'investissement de projets innovants en phase précoce",
+    "experience": "Expérience Professionnelle",
+    "education": "Formation",
+    "awards": "Prix et Distinctions",
+    "current": "Actuel"
+  },
+  "portfolio": {
+    "title": "Portefeuille d'Investissement",
+    "description": "Cas d'investissement sélectionnés couvrant la fintech, les services aux entreprises, la technologie automobile et d'autres domaines",
+    "philosophy": "Philosophie d'Investissement",
+    "philosophyText": "Recherche Approfondie, Création de Valeur, Positionnement Prospectif - Se concentrer sur les projets d'innovation technologique avec une valeur à long terme, fournir un soutien en capital et en ressources aux entrepreneurs grâce à une recherche industrielle approfondie et un jugement d'investissement professionnel, promouvoir conjointement l'innovation technologique et la mise à niveau industrielle."
+  },
+  "insights": {
+    "title": "Perspectives Industrielles",
+    "description": "Partager la réflexion sur l'investissement et les observations de l'industrie, explorer les tendances de développement de l'innovation technologique",
+    "readMore": "Lire Plus"
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "description": "Si vous avez des projets innovants de haute qualité ou des intentions de coopération d'investissement, n'hésitez pas à me contacter",
+    "info": "Informations de Contact",
+    "preferences": "Préférences d'Investissement",
+    "cooperation": "Coopération de Projet",
+    "form": {
+      "name": "Nom",
+      "company": "Entreprise",
+      "email": "Email",
+      "project": "Description du Projet",
+      "namePlaceholder": "Veuillez entrer votre nom",
+      "companyPlaceholder": "Veuillez entrer le nom de l'entreprise",
+      "emailPlaceholder": "Veuillez entrer l'adresse email",
+      "projectPlaceholder": "Veuillez décrire brièvement votre projet...",
+      "submit": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "description": "Se concentrer sur l'investissement en innovation technologique, s'engager à découvrir et cultiver d'excellentes entreprises avec une valeur à long terme",
+    "copyright": "© 2024 Lou Min. Tous droits réservés."
+  }
+} 
